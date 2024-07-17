@@ -1,0 +1,19 @@
+nav{ 
+    background: #f10937;
+    padding: 20px;
+}
+.columna{
+    background: #68066b;
+    color: #31bd93;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+    
+}
+.padre{
+    
+    display: flex;
+}
+.nav-enlace{
+    display: inline-block;
+}
